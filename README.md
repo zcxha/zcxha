@@ -5,5 +5,6 @@
 Here are some ideas to get started:
 
 - 🔭 I’m currently working on My Courses
-- 🌱 I’m currently learning Algorithms and CyberSecurity
+- 🌱 I’m currently learning CyberSecurity in WHU
+- ❤️ I'm currently newbie in Competitive Programming (CF: zcxsb, atcoder: zcxsb)
 
